@@ -24,6 +24,7 @@ public class NopCommerceStepDefinitions {
     @Then("user should be able to login")
     public void user_should_be_able_to_login() {
         System.out.println("user should be able to login");
+
     }
 
 }
